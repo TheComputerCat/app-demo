@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/Users/sonatype/Repositories/my-app/src/main/java:/Users/sonatype/Repositories/my-app/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/sonatype/Repositories/my-app/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'io.github.thecomputercat:app-demo 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/sonatype/Repositories/my-app/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'io.github.thecomputercat:app-demo 1.0 API'
+com.mycompany.app
+/Users/sonatype/Repositories/my-app/src/main/java = 1722967978093
+/Users/sonatype/Repositories/my-app/target/generated-sources/annotations = 1723220753623
+/Users/sonatype/Repositories/my-app/target/apidocs/tag-search-index.js = 1723220765168
+/Users/sonatype/Repositories/my-app/target/apidocs/overview-tree.html = 1723220765154
+/Users/sonatype/Repositories/my-app/target/apidocs/module-search-index.js = 1723220765166
+/Users/sonatype/Repositories/my-app/target/apidocs/index.html = 1723220765179
+/Users/sonatype/Repositories/my-app/target/apidocs/package-search-index.js = 1723220765166
+/Users/sonatype/Repositories/my-app/target/apidocs/index-all.html = 1723220765175
+/Users/sonatype/Repositories/my-app/target/apidocs/allpackages-index.html = 1723220765165
+/Users/sonatype/Repositories/my-app/target/apidocs/member-search-index.js = 1723220765168
+/Users/sonatype/Repositories/my-app/target/apidocs/help-doc.html = 1723220765186
+/Users/sonatype/Repositories/my-app/target/apidocs/element-list = 1723220765129
+/Users/sonatype/Repositories/my-app/target/apidocs/search.html = 1723220765177
+/Users/sonatype/Repositories/my-app/target/apidocs/allclasses-index.html = 1723220765163
+/Users/sonatype/Repositories/my-app/target/apidocs/type-search-index.js = 1723220765167
